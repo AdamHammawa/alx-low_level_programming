@@ -1,1 +1,1 @@
-this repo contains projects on C programming for ALX
+this repo contains C Programming Projects
